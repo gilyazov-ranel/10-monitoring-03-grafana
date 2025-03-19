@@ -47,6 +47,9 @@ node_memory_MemAvailable_bytes{instance="nodeexporter:9100",job="nodeexporter"}
 
 1. Создайте для каждой Dashboard подходящее правило alert — можно обратиться к первой лекции в блоке «Мониторинг».
 1. В качестве решения задания приведите скриншот вашей итоговой Dashboard.
+#### Ответ
+![image](https://github.com/user-attachments/assets/7c7b5d4b-c1b4-4350-abd2-a049fa514852)
+![image](https://github.com/user-attachments/assets/a12cd1d0-ce12-4db3-bece-2a1ac9a97fcf)
 
 ## Задание 4
 
