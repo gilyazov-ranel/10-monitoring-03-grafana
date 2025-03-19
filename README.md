@@ -55,5 +55,5 @@ node_memory_MemAvailable_bytes{instance="nodeexporter:9100",job="nodeexporter"}
 
 1. Сохраните ваш Dashboard.Для этого перейдите в настройки Dashboard, выберите в боковом меню «JSON MODEL». Далее скопируйте отображаемое json-содержимое в отдельный файл и сохраните его.
 1. В качестве решения задания приведите листинг этого файла.
-
----
+#### Ответ
+[dashboard](https://github.com/gilyazov-ranel/10-monitoring-03-grafana/blob/main/dashboardTest.json)
